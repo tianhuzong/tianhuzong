@@ -6,6 +6,8 @@
  -  gitee:https://gitee.com/thzsen
 - - -
 ##我的作品：
-[thztools](https://github.com/tianhuzong/thztools):天狐宗工具：一个python包，持续更新中，[pypi](https://pypi.org/project/thztools/)
+[thztools](https://github.com/tianhuzong/thztools):天狐宗工具：一个python包，持续更新中，在[pypi](https://pypi.org/project/thztools/)查看
+
 <kbd>thzqqbot</kbd>:天狐宗qq机器人框架，开发中
+
 <kbd>thzauth</kbd>:天狐宗授权系统：开发中

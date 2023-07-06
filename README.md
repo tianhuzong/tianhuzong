@@ -1,5 +1,5 @@
-##嗨！你们好
-
+#嗨！你们好
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tianhuzong&show_icons=true&theme=aura)
 >我是仙，天狐宗的创始人,一个爱好python，易语言，php的阳光开朗大男孩
  - e-mail:tianhuzong@qq.com
  - github:https://github.com/tianhuzong

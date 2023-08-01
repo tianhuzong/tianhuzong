@@ -1,6 +1,6 @@
 #嗨！你们好
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tianhuzong&show_icons=true&theme=aura)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tianhuzong&show_icons=true&theme=aura&count_private=true)
 >我是仙，天狐宗的创始人,一个爱好python，易语言，php的阳光开朗大男孩
  - e-mail:tianhuzong@qq.com
  - github:https://github.com/tianhuzong
@@ -12,3 +12,8 @@
 <kbd>thzqqbot</kbd>:天狐宗qq机器人框架，开发中
 
 <kbd>thzauth</kbd>:天狐宗授权系统：开发中
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tianhuzong&repo=DD-web-demo&show_owner=true)](https://github.com/tianhuzong/DD-web-demo)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianhuzong&layout=compact)

@@ -10,7 +10,11 @@
 - - -
 如果你想赞助我，请访问[爱发电](https://afdian.com/a/thzsen) 
 If you want to sponsor me, please visit [Afdian](https://afdian.com/a/thzsen) 
-![My QRcode of Afdian](./afdian-天狐宗_仙.jpg)
+
+[![爱发电](https://pic1.afdiancdn.com/static/img/welcome/button-sponsorme.png)](https://afdian.com/a/thzsen)
+
+
+
 ## 我的作品：
 [thianhutools](https://github.com/tianhuzong/thztools):天狐宗工具：一个python包，持续更新中，在[pypi](https://pypi.org/project/tianhutools/)查看
 
@@ -23,3 +27,5 @@ If you want to sponsor me, please visit [Afdian](https://afdian.com/a/thzsen)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tianhuzong&repo=Titanic&show_owner=true)](https://github.com/tianhuzong/Titanic)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tianhuzong&layout=compact)
+
+[![My Afdian](./afdian-天狐宗_仙.jpg)](https://afdian.com/a/thzsen)
